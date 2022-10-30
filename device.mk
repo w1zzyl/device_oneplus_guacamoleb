@@ -29,6 +29,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 PRODUCT_PACKAGES += \
     ArrowSystemUIResTarget \
     OPlusFrameworksResTarget \
+    OPlusExtrasResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget
 
