@@ -27,6 +27,7 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-arrow
 
 PRODUCT_PACKAGES += \
+    ArrowSystemUIResTarget \
     OPlusFrameworksResTarget \
     OPlusSettingsProviderResTarget \
     OPlusSystemUIResTarget
